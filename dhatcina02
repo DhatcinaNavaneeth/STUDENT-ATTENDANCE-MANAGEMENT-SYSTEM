@@ -1,3 +1,12 @@
 Project Title:STUDENT ATTENDANCE MANAGEMENT SYSTEM
 Description:
 A web-based application for managing student attendance, maintaining records, and generating attendance reports efficiently.
+
+Problem Statement:Many educational institutions still manage attendance manually, which is time-consuming and prone to errors. The Student Attendance Management System provides a digital solution to record, monitor, and manage attendance efficiently.
+Requirements:
+Student Registration
+Faculty Login
+Attendance Marking
+Attendance Reports
+Search Student Records
+Admin Dashboard
